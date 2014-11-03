@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SameFormattingChallenge", "SameFormattingChallenge\SameFormattingChallenge.csproj", "{8BB0CA7C-68E4-44D7-BB41-C0D26172C0D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestChallenge", "UnitTestSameFormattingChallenge\UnitTestChallenge.csproj", "{128D500A-F288-4743-9844-7A0203FB1756}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BB0CA7C-68E4-44D7-BB41-C0D26172C0D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BB0CA7C-68E4-44D7-BB41-C0D26172C0D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BB0CA7C-68E4-44D7-BB41-C0D26172C0D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BB0CA7C-68E4-44D7-BB41-C0D26172C0D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{128D500A-F288-4743-9844-7A0203FB1756}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{128D500A-F288-4743-9844-7A0203FB1756}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{128D500A-F288-4743-9844-7A0203FB1756}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{128D500A-F288-4743-9844-7A0203FB1756}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
